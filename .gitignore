@@ -130,7 +130,7 @@ venv.bak/
 /site
 .vscode
 .vscode/
-
+/.vscode/
 # mypy
 .mypy_cache/
 .dmypy.json

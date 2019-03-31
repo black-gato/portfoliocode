@@ -1,0 +1,5 @@
+{
+"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+"python.pythonPath":"${workspaceFolder}\\venv\\Scripts\\python.exe",
+"terminal.integrated.shellArgs.windows": ["/K", "C:\\Users\\Anthony\\Documents\\django.bat"],
+}
